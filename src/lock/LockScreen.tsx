@@ -202,7 +202,7 @@ export default class extends React.Component<
             <Header
               style={{
                 fontSize: 32,
-                color: "white",
+                color: "blue",
                 marginHorizontal: 24,
                 textAlign: "center",
               }}
